@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>./farabi.sh</title>
-    <link>mfaarabi.github.io/</link>
+    <link>/</link>
     <description>Recent content on ./farabi.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="mfaarabi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Terminal Setup</title>
-      <link>mfaarabi.github.io/my-terminal-setup/</link>
+      <link>/my-terminal-setup/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>mfaarabi.github.io/my-terminal-setup/</guid>
+      <guid>/my-terminal-setup/</guid>
       <description>As a software engineer, I find myself using terminal as the de facto way to work. It offers a highly customizable text based interface that would otherwise be complicated if it&amp;rsquo;s a UI based interface. How it helps me to be productive depends on how I configure it. So here I present my own terminal setup.
 I&amp;rsquo;ll go through what I install (and later I&amp;rsquo;ll explain its functionality).
 ZSH Install ZSH sudo apt install zsh Set WSL to run ZSH by default .</description>
@@ -24,20 +24,20 @@ ZSH Install ZSH sudo apt install zsh Set WSL to run ZSH by default .</descriptio
     
     <item>
       <title>About</title>
-      <link>mfaarabi.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mfaarabi.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Hello World! My name is Farabi, the author of farabi.sh. I&amp;rsquo;m a software craftsman, a PC/PS gamer, a tech enthusiast, and an eastern asian pop culture aficionado.
 Throughout my time as a Computer Science student and as a Product Engineer, I learned that the best way to learn anything is by teaching. One of the purpose as to why I build this personal website is to share what I learned by teaching, to validate my understanding and also to be useful to others.</description>
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>mfaarabi.github.io/showcase/</link>
+      <link>/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>mfaarabi.github.io/showcase/</guid>
+      <guid>/showcase/</guid>
       <description>Figure Shortcode Unsplash / Thomas Ciszewski  Code Shortcode css Really cool snippet    pre { background: #1a1a1d; padding: 20px; border-radius: 8px; font-size: 1rem; overflow: auto; @media (--phone) { white-space: pre-wrap; word-wrap: break-word; } code { background: none !important; color: #ccc; padding: 0; font-size: inherit; } }   Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis.</description>
     </item>
     

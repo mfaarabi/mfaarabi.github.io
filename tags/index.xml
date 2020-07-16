@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ./farabi.sh</title>
-    <link>mfaarabi.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on ./farabi.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="mfaarabi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>personalization</title>
-      <link>mfaarabi.github.io/tags/personalization/</link>
+      <link>/tags/personalization/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>mfaarabi.github.io/tags/personalization/</guid>
+      <guid>/tags/personalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terminal</title>
-      <link>mfaarabi.github.io/tags/terminal/</link>
+      <link>/tags/terminal/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>mfaarabi.github.io/tags/terminal/</guid>
+      <guid>/tags/terminal/</guid>
       <description></description>
     </item>
     
