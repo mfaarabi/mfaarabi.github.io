@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ./farabi.sh</title>
-    <link>/tags/</link>
+    <link>farabi.sh/tags/</link>
     <description>Recent content in Tags on ./farabi.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="farabi.sh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>personalization</title>
-      <link>/tags/personalization/</link>
+      <link>farabi.sh/tags/personalization/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/personalization/</guid>
+      <guid>farabi.sh/tags/personalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terminal</title>
-      <link>/tags/terminal/</link>
+      <link>farabi.sh/tags/terminal/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/terminal/</guid>
+      <guid>farabi.sh/tags/terminal/</guid>
       <description></description>
     </item>
     
